@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgrando&show_icons=true&theme=radical)
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgrando&layout=compact&theme=radical)](https://github.com/danielgrando/github-readme-stats)
+-->
