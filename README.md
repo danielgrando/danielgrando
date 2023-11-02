@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/danielgrando">![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgrando&show_icons=true&theme=radical)</a>
+<a href="https://github.com/danielgrando">![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielgrando&show_icons=true&theme=radical)</a>
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielgrando&layout=compact&theme=radical)](https://github.com/danielgrando/github-readme-stats)
